@@ -1,0 +1,4 @@
+Init:default
+InitFile:Eat.xml
+ServerPort:5559
+ServerIP:localhost
